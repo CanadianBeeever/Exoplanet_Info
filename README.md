@@ -1,1 +1,3 @@
 # Exoplanet_Info
+
+This is a bunch of info and graphs on a list of 3000+ discovered exoplanets....yea...
